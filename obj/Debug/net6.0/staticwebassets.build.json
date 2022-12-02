@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gnFciTcT3Da2muQjuBaFaYBkVcw+KszrW3AdO7RMgmg=",
+  "Source": "MashrahASayHelloEndpoint",
+  "BasePath": "_content/MashrahASayHelloEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
